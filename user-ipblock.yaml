@@ -1,0 +1,12 @@
+blocks:
+  - netmask: 255.255.255.0
+    gateway: 172.16.0.1
+    ips:
+    - ip: 172.16.0.51
+      hostname: worker-vm-1
+    - ip: 172.16.0.52
+      hostname: worker-vm-2
+    - ip: 172.16.0.53
+      hostname: worker-vm-3
+    - ip: 172.16.0.54
+      hostname: worker-vm-4
